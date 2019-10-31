@@ -1,2 +1,2 @@
 Go to snk.m or interate.m for instrutions on how to run this code.
-The code was written on MATLAB 6.5
+The code was written on MATLAB
